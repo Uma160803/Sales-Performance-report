@@ -5,27 +5,28 @@ To provide a quick overview of sales performance across states, regions, and pro
 ## Dataset used 
 - <a href="https://github.com/Uma160803/Sales-Performance-report/blob/main/Sample%20-%20Superstore_new1.xlsx">Dataset</a>
 ## Questions(KPIs)
--1.What is the total sales amount?
--2. What is the total profit?
--3. Which region has the highest sales?
--4. What category has the highest sales?
--5. Which state generated the most profit?
--6. Which state had the highest loss?
--7. How many total units were sold?
--8. What is the total discount given?
--9. Which region has the lowest sales?
--10. Which states are included in the sales data?
+- What is the total sales amount?
+- What is the total profit?
+- Which region has the highest sales?
+- What category has the highest sales?
+- Which state generated the most profit?
+- Which state had the highest loss?
+- How many total units were sold?
+- What is the total discount given?
+- Which region has the lowest sales?
+- Which states are included in the sales data?
+
 - Dashboard interaction <a href="https://github.com/Uma160803/Sales-Performance-report/commit/7e214aa307551cc3b2f3db77f898e1732b46b3fc">View Dashboard</a>
 ## Procress
--Import data from Excel, CSV, or a database.
--Clean and format the data for consistency.
--Create relationships between tables (data modeling).
--Add a map visual to display sales by state.
--Insert KPI cards for sales, profit, quantity, and discount.
--Create a bar chart for sales by category.
--Add a pie chart to show sales by region.
--Add a bar chart to display profit by state.
--Insert a slicer for city-based filtering.
+- Import data from Excel, CSV, or a database.
+- Clean and format the data for consistency.
+- Create relationships between tables (data modeling).
+- Add a map visual to display sales by state.
+- Insert KPI cards for sales, profit, quantity, and discount.
+- Create a bar chart for sales by category.
+- Add a pie chart to show sales by region.
+- Add a bar chart to display profit by state.
+- Insert a slicer for city-based filtering.
 ## Deshboard
 pic.png
 
