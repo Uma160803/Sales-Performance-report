@@ -1,2 +1,5 @@
-# Sales-Performance-report
-This dashboard presents a high-level analysis of sales performance across various U.S. regions, states, cities, and product categories. It consolidates key business metrics to support strategic decision-making.
+# Sales-Performance-report (Interactive Dashboard creation using MS Excel)
+
+## Project Objective
+To provide a quick overview of sales performance across states, regions, and product categories, highlighting key metrics like total sales, profit/loss, quantity, and discounts to support data-driven business decisions.
+
