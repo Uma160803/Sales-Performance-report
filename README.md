@@ -28,5 +28,5 @@ To provide a quick overview of sales performance across states, regions, and pro
 - Add a bar chart to display profit by state.
 - Insert a slicer for city-based filtering.
 ## Dashboard
-<a href="pic.png">view dashboard</a>
+<a href="pic.png">view dashboard</a> 
 
