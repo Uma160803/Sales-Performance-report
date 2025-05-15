@@ -15,8 +15,8 @@ To provide a quick overview of sales performance across states, regions, and pro
 - What is the total discount given?
 - Which region has the lowest sales?
 - Which states are included in the sales data?
-
-- Dashboard interaction <a href="https://github.com/Uma160803/Sales-Performance-report/commit/7e214aa307551cc3b2f3db77f898e1732b46b3fc">View Dashboard</a>
+- Dashboard interaction
+- <a href="https://github.com/Uma160803/Sales-Performance-report/commit/7e214aa307551cc3b2f3db77f898e1732b46b3fc">View Dashboard</a>
 ## Procress
 - Import data from Excel, CSV, or a database.
 - Clean and format the data for consistency.
