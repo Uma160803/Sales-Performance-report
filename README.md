@@ -10,7 +10,7 @@ To provide a quick overview of sales performance across states, regions, and pro
 - What is the total profit?
 - Which region has the highest sales?
 - What category has the highest sales?
-- Which state generated the most profit?
+- Which state generated the most profit? 
 - Which state had the highest loss?
 - How many total units were sold?
 - What is the total discount given?
